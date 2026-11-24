@@ -21,8 +21,6 @@
 #include <cmath>
 #include <cstdint>
 
-#include "surreal.h"
-
 // Choices: OriginalSincResampler SincResamplerBeta
 #define SincResampler OriginalSincResampler
 
